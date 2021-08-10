@@ -1,0 +1,33 @@
+=============== Aug 8, 2021 (AEST) ===============
+19:14:50.691166 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:14:50.711249 db@open opening
+19:14:50.715753 version@stat F·[] S·0B[] Sc·[]
+19:14:50.726151 db@janitor F·2 G·0
+19:14:50.726332 db@open done T·14.876ms
+19:14:50.750167 db@close closing
+19:14:50.751166 db@close done T·998.4µs
+=============== Aug 8, 2021 (AEST) ===============
+19:17:35.492342 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:17:35.493371 version@stat F·[] S·0B[] Sc·[]
+19:17:35.493371 db@open opening
+19:17:35.493371 journal@recovery F·1
+19:17:35.502587 journal@recovery recovering @1
+19:17:35.514986 memdb@flush created L0@2 N·626 S·50KiB "\x02d\xfc..\x19Ba,v434":"\xfe\x88\xcf..H\xef\xcc,v364"
+19:17:35.524100 version@stat F·[1] S·50KiB[50KiB] Sc·[0.25]
+19:17:35.546534 db@janitor F·3 G·0
+19:17:35.546534 db@open done T·53.1627ms
+19:23:36.494424 db@close closing
+19:23:36.495547 db@close done T·1.123ms
+=============== Aug 8, 2021 (AEST) ===============
+19:24:56.742660 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:24:56.743626 version@stat F·[1] S·50KiB[50KiB] Sc·[0.25]
+19:24:56.743626 db@open opening
+19:24:56.743626 journal@recovery F·1
+19:24:56.752632 journal@recovery recovering @3
+19:24:56.758202 memdb@flush created L0@5 N·279 S·11KiB "Dat..ion,v628":"unc..own,v893"
+19:24:56.767728 version@stat F·[2] S·62KiB[62KiB] Sc·[0.50]
+19:24:56.789229 db@janitor F·4 G·0
+19:24:56.789229 db@open done T·45.603ms
+=============== Aug 9, 2021 (AEST) ===============
+09:32:54.219596 db@close closing
+09:32:54.220671 db@close done T·1.075ms
